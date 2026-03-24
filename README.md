@@ -103,7 +103,6 @@ struct iOSEngineer {
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases & Local Storage
@@ -111,14 +110,12 @@ struct iOSEngineer {
 ![Core Data](https://img.shields.io/badge/Core_Data-0071e3?style=for-the-badge&logo=apple&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 
 ### 🔧 Third-Party & Hardware
 
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logoColor=white)
 ![Push Notifications](https://img.shields.io/badge/Push_Notifications-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![In_App Purchases](https://img.shields.io/badge/In--App_Purchases-00A0D1?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -127,7 +124,6 @@ struct iOSEngineer {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
 ![TestFlight](https://img.shields.io/badge/TestFlight-147EFB?style=for-the-badge&logo=apple&logoColor=white)
 ![SPM](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Instruments](https://img.shields.io/badge/Instruments-147EFB?style=for-the-badge&logo=apple&logoColor=white)
