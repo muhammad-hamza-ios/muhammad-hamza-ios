@@ -158,7 +158,7 @@ struct iOSEngineer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-ios-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamza-ios)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammad-hamza-ios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-hamza-ios)
 [![Email](https://img.shields.io/badge/Email-itshamza76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshamza76@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B92%20312%20457%203059-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923124573059)
