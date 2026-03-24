@@ -71,39 +71,78 @@ struct iOSEngineer {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 📱 iOS & Mobile
+<div align="center">
+
+### 📱 Mobile
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🏗️ Architecture & Patterns
+
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge&logoColor=white)
-![Coordinator](https://img.shields.io/badge/Coordinator_Pattern-00796B?style=for-the-badge&logoColor=white)
+![Coordinator](https://img.shields.io/badge/Coordinator-00796B?style=for-the-badge&logoColor=white)
+![MVP](https://img.shields.io/badge/MVP-00796B?style=for-the-badge&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-37474F?style=for-the-badge&logoColor=white)
 
 ### ⚡ Concurrency & Reactive
+
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/async%2Fawait-0071e3?style=for-the-badge&logo=swift&logoColor=white)
 ![GCD](https://img.shields.io/badge/GCD-147EFB?style=for-the-badge&logo=apple&logoColor=white)
 
 ### ☁️ Backend & Cloud
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+### 🗄️ Databases & Local Storage
+
 ![Core Data](https://img.shields.io/badge/Core_Data-0071e3?style=for-the-badge&logo=apple&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+
+### 🔧 Third-Party & Hardware
+
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-000000?style=for-the-badge&logo=apple&logoColor=white)
+![In_App Purchases](https://img.shields.io/badge/In--App_Purchases-00A0D1?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🔨 DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
 ![TestFlight](https://img.shields.io/badge/TestFlight-147EFB?style=for-the-badge&logo=apple&logoColor=white)
 ![SPM](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Instruments](https://img.shields.io/badge/Instruments-147EFB?style=for-the-badge&logo=apple&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 AI & Productivity
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -158,7 +197,7 @@ struct iOSEngineer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamza-ios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-ios-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammad-hamza-ios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-hamza-ios)
 [![Email](https://img.shields.io/badge/Email-itshamza76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshamza76@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B92%20312%20457%203059-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923124573059)
